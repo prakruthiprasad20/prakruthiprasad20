@@ -48,8 +48,7 @@ Open to collaborations and discussions on technology 🚀💡.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakruthiprasad20&theme=tokyonight" alt="GitHub Streak" width="400px"/>
 </div>
 
-### Profile Views 🚀
-![Profile views](https://komarev.com/ghpvc/?username=prakruthiprasad&style=flat)
+
 ## Hacktoberfest 2024 🎉
 
 <div align="center" style="background-color:black; padding: 20px;">
