@@ -10,7 +10,6 @@ Open to collaborations and discussions on technology 🚀💡.
 
 
 
-
 ### Tech Stack 💻
 
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
@@ -38,17 +37,18 @@ Open to collaborations and discussions on technology 🚀💡.
   <a href="https://github.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40" />
   </a>
-</div>
-
-
-![Profile Views](https://img.shields.io/badge/Profile%20Views-123-blue)
+</div>      
 
 ## GitHub Stats 📊
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=prakruthiprasad20&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakruthiprasad20&theme=tokyonight" alt="GitHub Streak" width="400px"/>
-</div>
+</div>  
+
+  
+![Profile Views](https://img.shields.io/badge/Profile%20Views-123-blue)  
+
 
 
 ## Hacktoberfest 2024 🎉
