@@ -39,18 +39,6 @@ Open to collaborations and discussions on technology 🚀💡.
   </a>
 </div>      
 
-## GitHub Stats 📊
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakruthiprasad20&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakruthiprasad20&theme=tokyonight" alt="GitHub Streak" width="400px"/>
-</div>  
-
-  
-![Profile Views](https://img.shields.io/badge/Profile%20Views-123-blue)  
-
-
-
 ## Hacktoberfest 2024 🎉
 
 <div align="center" style="background-color:black; padding: 20px;">
