@@ -53,8 +53,6 @@ Open to collaborations and discussions on technology 🚀💡.
   </a>
 </div>
 
-### GitHub Trophies 🏆
-![trophy](https://github-profile-trophy.vercel.app/?username=prakruthiprasad20)
 
 
   
