@@ -36,13 +36,15 @@ Open to collaborations and discussions on technology 🚀💡.
   <img alt="VS Code" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Operating Systems" src="https://img.shields.io/badge/-Operating_Systems-6d6d6d?style=flat-square&logo=linux&logoColor=white" />
+    <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img alt="Gnuplot" src="https://img.shields.io/badge/-Gnuplot-4B8BBE?style=flat-square&logo=gnu&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+
+
 </p>
 
 
   
- 
-
-
 
 ## Hacktoberfest 2024 🎉
 
