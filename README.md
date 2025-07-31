@@ -3,6 +3,19 @@ I love exploring new tech and contributing to projects.
 Open to collaborations and discussions on technology 🚀💡.
 
 
+<h3>Where to find me</h3>
+<p>
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
+  <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+  <img alt="NexFellow" src="https://img.shields.io/badge/-NexFellow-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+</p>
+
+
 <h3>Things I Code With</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -25,40 +38,10 @@ Open to collaborations and discussions on technology 🚀💡.
   <img alt="Operating Systems" src="https://img.shields.io/badge/-Operating_Systems-6d6d6d?style=flat-square&logo=linux&logoColor=white" />
 </p>
 
-<h3>Where to find me</h3>
-<p>
-  <a href="https://github.com/prakruthiprasad20" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
   
-  <a href="https://x.com/prakruthi_1505" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/X(Twitter)-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/prakruthi-prasad-065169273/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="mailto:prakruthiprasad19@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-  <a href="https://discord.com/users/prakruthiprasad" target="_blank">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  
-  <a href="https://leetcode.com/u/looplyy/" target="_blank">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  
-  <a href="https://www.nexfellow.com/user/Prakruthi5958" target="_blank">
-    <img alt="NexFellow" src="https://img.shields.io/badge/NexFellow-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  
-  <a href="https://www.instagram.com/_prakruthiprasad_/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+ 
+
 
 
 ## Hacktoberfest 2024 🎉
