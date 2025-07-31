@@ -1,6 +1,17 @@
-## Hi folks, I’m Prakruthi 👋
-I love exploring new tech and contributing to projects.  
-Open to collaborations and discussions on technology 🚀💡.
+<p align="center">
+  <!-- Static name styled like typing lines -->
+  <img src="https://readme-typing-svg.demolab.com/?lines=Prakruthi%20Prasad&font=Fira%20Code&center=true&width=500&height=45&color=BA55D3&vCenter=true&pause=1000&size=32&duration=1" />
+</p>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=45&color=BA55D3&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
+
+
+
 
 
 <h3>Where to find me</h3>
