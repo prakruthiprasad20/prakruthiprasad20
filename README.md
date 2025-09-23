@@ -1,20 +1,49 @@
-<p align="center">
-  <!-- Static name styled like typing lines -->
+<!--
+<p align="centre">
 <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I'm%20Prakruthi&font=Fira%20Code&center=true&width=500&height=45&color=BA55D3&vCenter=true&pause=1000&size=32&duration=1" />
-</p>
-
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 -->
+</p><p align="centre">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=45&color=BA55D3&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
+-->
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 50px; flex-wrap: wrap;">
 
 
 
+  <div>
+    <p>
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario GIF" width="400" align="right" style="display: block; border: none;" />
+      </p>
+  </div>
 
+  <br/>
+<br/>
 
-## 🌐 Where to find me
+  <div style="display: flex; flex-direction: column; text-align: left;">
+    <p>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I'm%20Prakruthi&font=Fira%20Code&center=true&width=400&height=45&&color=FF00FF&vCenter=true&pause=1000&size=36&duration=1" style="display: block; margin-bottom: 5px;" />
+      </p>
+    <p>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+      
+ <img src="https://readme-typing-svg.demolab.com/?lines=Building%20and%20exploring%20projects;related%20to%20Web%20Development&font=Fira%20Code&center=true&width=475&height=45&&color=FF00FF&vCenter=true&pause=1000&size=25" align="left" style="display: block;" />
+    </a>
+      </p>
+  </div>
+
+  
+
+</div>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+## 🌐 Reach me out at
 <p>
   <!-- <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /> -->
 
@@ -55,21 +84,18 @@
 <img alt="Operating Systems" src="https://img.shields.io/badge/-Operating_Systems-6d6d6d?style=for-the-badge&logo=linux&logoColor=white" />
 <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img alt="Gnuplot" src="https://img.shields.io/badge/-Gnuplot-4B8BBE?style=for-the-badge&logo=gnu&logoColor=white" />
-
-
-
-
-
-
-
 </p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prakruthiprasad20&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://streak-stats.vercel.app?user=prakruthiprasad20&theme=radical&hide_border=false" alt="GitHub Streak" height="180"/>
 </p>
+
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakruthiprasad20&layout=compact&theme=radical" alt="Top Languages" height="160"/>
