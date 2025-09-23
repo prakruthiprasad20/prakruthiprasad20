@@ -52,7 +52,7 @@
 [<img alt="X" src="https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/prakruthi_1505)
 [<img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />](https://leetcode.com/u/looplyy/)
 [<img alt="GeeksforGeeks" src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />](https://www.geeksforgeeks.org/user/prakruthiaejm/)
-[<img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/channels/@me)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1237065300273397873)
 [<img alt="NexFellow" src="https://img.shields.io/badge/-NexFellow-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://www.nexfellow.com/user/Prakruthi5958)
 
 
