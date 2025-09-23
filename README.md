@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Static name styled like typing lines -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=Prakruthi%20Prasad&font=Fira%20Code&center=true&width=500&height=45&color=BA55D3&vCenter=true&pause=1000&size=32&duration=1" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I'm%20Prakruthi&font=Fira%20Code&center=true&width=500&height=45&color=BA55D3&vCenter=true&pause=1000&size=32&duration=1" />
 </p>
 
 <p align="center">
@@ -58,7 +58,16 @@
 </p>
 
 
-  
+## 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakruthiprasad20&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=prakruthiprasad20&theme=radical&hide_border=false)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakruthiprasad20&layout=compact&theme=radical)
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=prakruthiprasad20&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Hacktoberfest 2024 🎉
 
