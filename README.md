@@ -57,17 +57,22 @@
 
 </p>
 
+## 📊 GitHub Stats
 
-## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prakruthiprasad20&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://streak-stats.vercel.app?user=prakruthiprasad20&theme=radical&hide_border=false" alt="GitHub Streak" height="180"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakruthiprasad20&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakruthiprasad20&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=prakruthiprasad20&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakruthiprasad20&layout=compact&theme=radical)
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=prakruthiprasad20&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## Hacktoberfest 2024 🎉
 
