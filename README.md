@@ -14,13 +14,11 @@
 
   <div>
     <p>
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario GIF" width="400" align="right" style="display: block; border: none;" />
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario GIF" width="350" align="right" style="display: block; border: none;" />
       </p>
   </div>
 
-  <br/>
-<br/>
-
+  
   <div style="display: flex; flex-direction: column; text-align: left;">
     <p>
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I'm%20Prakruthi&font=Fira%20Code&center=true&width=400&height=45&&color=FF00FF&vCenter=true&pause=1000&size=36&duration=1" style="display: block; margin-bottom: 5px;" />
@@ -43,7 +41,7 @@
 <br/>
 <br/>
 
-## 🌐 Reach me out at
+## 🌐 Reach out at
 <p>
   <!-- <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /> -->
 
