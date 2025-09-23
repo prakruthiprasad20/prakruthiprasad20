@@ -14,19 +14,21 @@
 
   <div>
     <p>
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario GIF" width="350" align="right" style="display: block; border: none;" />
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario GIF" width="330" align="right" style="display: block; border: none;" />
       </p>
   </div>
 
   
   <div style="display: flex; flex-direction: column; text-align: left;">
     <p>
+      <br/>
+      <br/>
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I'm%20Prakruthi&font=Fira%20Code&center=true&width=400&height=45&&color=FF00FF&vCenter=true&pause=1000&size=36&duration=1" style="display: block; margin-bottom: 5px;" />
       </p>
     <p>
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
       
- <img src="https://readme-typing-svg.demolab.com/?lines=Building%20and%20exploring%20projects;related%20to%20Web%20Development&font=Fira%20Code&center=true&width=475&height=45&&color=FF00FF&vCenter=true&pause=1000&size=25" align="left" style="display: block;" />
+ <img src="https://readme-typing-svg.demolab.com/?lines=Building%20and%20exploring%20projects;related%20to%20Web%20Development&font=Fira%20Code&center=true&width=460&height=45&&color=FF00FF&vCenter=true&pause=1000&size=25" align="left" style="display: block;" />
     </a>
       </p>
   </div>
