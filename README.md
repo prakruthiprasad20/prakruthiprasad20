@@ -9,9 +9,6 @@
 -->
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 50px; flex-wrap: wrap;">
-
-
-
   <div>
     <p>
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario GIF" width="350" align="right" style="display: block; border: none;" />
@@ -38,9 +35,11 @@
 <br/>
 <br/>
 <br/>
-<br/>
 
-## 🌐 Reach out at
+## 🌐 Reach out at   <img src="https://komarev.com/ghpvc/?username=prakruthiprasad20&style=flat-square&color=blue" align="right" alt="Profile Views" height="30" />
+
+
+
 <p>
   <!-- <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /> -->
 
@@ -51,10 +50,13 @@
 [<img alt="GeeksforGeeks" src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />](https://www.geeksforgeeks.org/user/prakruthiaejm/)
 [<img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/channels/@me)
 [<img alt="NexFellow" src="https://img.shields.io/badge/-NexFellow-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://www.nexfellow.com/user/Prakruthi5958)
-</p>
 
 
+ <br/>
+      
 ## 💻 Things I Code With
+ <br/>
+
 <p>
 <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
@@ -82,8 +84,11 @@
 <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img alt="Gnuplot" src="https://img.shields.io/badge/-Gnuplot-4B8BBE?style=for-the-badge&logo=gnu&logoColor=white" />
 </p>
-
+ <br/>
+      
 ## 📊 GitHub Stats
+
+ <br/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prakruthiprasad20&show_icons=true&theme=radical" alt="GitHub Stats" height="200"/>
@@ -99,14 +104,15 @@
 </p>
 
 
+ <br/>
+  
 
-
-## 🏆 GitHub Trophies
-
+## 🏆 GitHub Trophies 
 [![trophy](https://github-profile-trophy.vercel.app/?username=prakruthiprasad20&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-## 🎖 My Holopin Badges
+ <br/>
+      
+## 🎖️ My Holopin Badges
 
 [![An image of @prakruthiprasad20's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prakruthiprasad20)](https://holopin.io/@prakruthiprasad20)
 
