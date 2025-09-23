@@ -14,7 +14,7 @@
 
   <div>
     <p>
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario GIF" width="330" align="right" style="display: block; border: none;" />
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario GIF" width="350" align="right" style="display: block; border: none;" />
       </p>
   </div>
 
@@ -39,9 +39,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-
 
 ## 🌐 Reach out at
 <p>
