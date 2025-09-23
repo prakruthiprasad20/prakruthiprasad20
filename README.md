@@ -8,11 +8,13 @@
 </p>
 -->
 
+
 <div style="display: flex; align-items: center; justify-content: center; gap: 50px; flex-wrap: wrap;">
   <div>
     <p>
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario GIF" width="350" align="right" style="display: block; border: none;" />
       </p>
+    
   </div>
 
   
@@ -36,9 +38,11 @@
 <br/>
 <br/>
 
-## 🌐 Reach out at   <img src="https://komarev.com/ghpvc/?username=prakruthiprasad20&style=flat-square&color=blue" align="right" alt="Profile Views" height="30" />
+<p>
+ <img src="https://komarev.com/ghpvc/?username=prakruthiprasad20&style=for-the-badge&color=FF00FF" width="130" alt="Profile Views" />
+</p>
 
-
+## 🌐 Reach out at  
 
 <p>
   <!-- <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /> -->
@@ -53,7 +57,7 @@
 
 
  <br/>
-      
+     
 ## 💻 Things I Code With
  <br/>
 
