@@ -85,14 +85,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=prakruthiprasad20&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://streak-stats.vercel.app?user=prakruthiprasad20&theme=radical&hide_border=false" alt="GitHub Streak" height="180"/>
 </p>
-
-
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakruthiprasad20&layout=compact&theme=radical" alt="Top Languages" height="160"/>
