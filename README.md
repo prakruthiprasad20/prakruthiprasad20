@@ -39,7 +39,7 @@
 <br/>
 
 <p>
- <img src="https://komarev.com/ghpvc/?username=prakruthiprasad20&style=for-the-badge&color=555555" width="130" alt="Profile Views" />
+ <img src="https://komarev.com/ghpvc/?username=prakruthiprasad20&style=for-the-badge&color=555555" width="130" align="right" alt="Profile Views" />
 </p>
 
 ## 🌐 Reach out at  
