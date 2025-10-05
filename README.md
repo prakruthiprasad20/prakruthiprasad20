@@ -22,12 +22,12 @@
     <p>
       <br/>
       <br/>
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I'm%20Prakruthi&font=Fira%20Code&center=true&width=400&height=45&&color=FF00FF&vCenter=true&pause=1000&size=36&duration=1" style="display: block; margin-bottom: 5px;" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I'm%20Prakruthi&font=Fira%20Code&center=true&width=400&height=45&&color=2E5A88&vCenter=true&pause=1000&size=36&duration=1" style="display: block; margin-bottom: 5px;" />
       </p>
     <p>
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
       
- <img src="https://readme-typing-svg.demolab.com/?lines=Building%20and%20exploring%20projects;related%20to%20Web%20Development&font=Fira%20Code&center=true&width=460&height=45&&color=FF00FF&vCenter=true&pause=1000&size=25" align="left" style="display: block;" />
+ <img src="https://readme-typing-svg.demolab.com/?lines=Building%20and%20exploring%20projects;related%20to%20Web%20Development&font=Fira%20Code&center=true&width=460&height=45&&color=2E5A88&vCenter=true&pause=1000&size=25" align="left" style="display: block;" />
     </a>
       </p>
   </div>
