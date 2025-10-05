@@ -115,8 +115,10 @@
  <br/>
   
 
-## 🏆 GitHub Trophies 
-[![trophy](https://github-profile-trophy.vercel.app/?username=prakruthiprasad20&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 GitHub Trophies
+
+![trophy](https://github-trophies.vercel.app/?username=prakruthiprasad20&theme=radical)
+
 
  <br/>
       
