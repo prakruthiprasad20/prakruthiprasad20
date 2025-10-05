@@ -50,12 +50,10 @@
 [<img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prakruthi-prasad-065169273)
 [<img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:prakruthiprasad19@gmail.com)
 [<img alt="X" src="https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/prakruthi_1505)
-[<img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />](https://leetcode.com/u/looplyy/)
-[<img alt="GeeksforGeeks" src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />](https://www.geeksforgeeks.org/user/prakruthiaejm/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1237065300273397873)
 [<img alt="NexFellow" src="https://img.shields.io/badge/-NexFellow-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://www.nexfellow.com/user/Prakruthi5958)
-
-
+[<img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />](https://leetcode.com/u/looplyy/)
+[<img alt="GeeksforGeeks" src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />](https://www.geeksforgeeks.org/user/prakruthiaejm/)
  <br/>
      
 ## 💻 Things I Code With
@@ -82,7 +80,13 @@
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img alt="VS Code" src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<!-- GitLab -->
+<img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+
+<img alt="API" src="https://img.shields.io/badge/-API-009688?style=for-the-badge&logoColor=white" />
+
+<img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<!-- <img alt="VS Code" src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> -->
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
 <img alt="Operating Systems" src="https://img.shields.io/badge/-Operating_Systems-6d6d6d?style=for-the-badge&logo=linux&logoColor=white" />
 <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
