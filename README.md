@@ -22,13 +22,49 @@
     <p>
       <br/>
       <br/>
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I'm%20Prakruthi&font=Fira%20Code&center=true&width=400&height=45&&color=FF0090&vCenter=true&pause=1000&size=36&duration=1" style="display: block; margin-bottom: 5px;" />
-      </p>
+ <!--   <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I'm%20Prakruthi&font=Fira%20Code&center=true&width=400&height=45&&color=FF0090&vCenter=true&pause=1000&size=36&duration=1" style="display: block; margin-bottom: 5px;" /> -->
+
+<img 
+  src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I'm%20Prakruthi&font=Fira%20Code&center=true&width=400&height=35&color=FF0090&vCenter=true&pause=1000&size=36&duration=1" 
+  style="display: block; margin-bottom: 0px;" 
+/>
+
+<img 
+  src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer&font=Fira%20Code&center=true&width=400&height=35&color=FF0090&vCenter=true&pause=1000&size=28&duration=1" 
+  style="display: block;" 
+/>
+
+      
+    
+ </p>
     <p>
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
       
- <img src="https://readme-typing-svg.demolab.com/?lines=Building%20and%20exploring%20projects;related%20to%20Web%20Development&font=Fira%20Code&center=true&width=460&height=45&&color=FF0090&vCenter=true&pause=1000&size=25" align="left" style="display: block;" />
-    </a>
+<!-- <img src="https://readme-typing-svg.demolab.com/?lines=Building%20and%20exploring%20projects;related%20to%20Web%20Development&font=Fira%20Code&center=true&width=460&height=45&&color=FF0090&vCenter=true&pause=1000&size=25" align="left" style="display: block;" />
+
+-->
+
+<!--
+  <img 
+  src="https://readme-typing-svg.demolab.com/?lines=A%203rd%20year%20CS%20student;at%20JSS%20STU,%20Mysuru,%20India;Passionate%20about%20Web%20Dev;and%20Open%20Source;Always%20excited%20to;learn,%20create,%20and%20collaborate!&font=Fira%20Code&center=false&width=600&height=120&color=FF0090&vCenter=true&pause=1000&size=23" 
+  align="left" 
+  style="display: block;" 
+/> -->
+<img 
+  src="https://readme-typing-svg.demolab.com/?lines=A%203rd%20year%20CS%20student;at%20JSS%20STU,%20Mysuru,%20India;Passionate%20about%20Web%20Dev%20and;Open%20Source.%20Always%20excited%20to;learn,%20create,%20and%20collaborate!&font=Fira%20Code&center=false&width=600&height=120&color=FF0090&vCenter=true&pause=1000&size=23" 
+  align="left" 
+  style="display: block;" 
+/>
+<!-- <img 
+  src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer%20from%20India;A%203rd%20year%20CS%20student;at%20JSS%20STU,%20Mysuru,%20India;Always%20excited%20to%20learn,;create,%20and%20collaborate!&font=Fira%20Code&center=false&width=600&height=140&color=FF0090&vCenter=true&pause=1000&size=23" 
+  align="left" 
+  style="display: block;" 
+/> -->
+
+
+
+
+</a>
       </p>
   </div>
 </div>
