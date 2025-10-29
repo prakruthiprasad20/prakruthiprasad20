@@ -30,7 +30,7 @@
 />
 
 <img 
-  src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer&font=Fira%20Code&center=true&width=400&height=35&color=FF0090&vCenter=true&pause=1000&size=28&duration=1" 
+  src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer&font=Fira%20Code&center=true&width=400&height=35&color=FF0090&vCenter=true&pause=1000&size=28&duration=1" 
   style="display: block;" 
 />
 
