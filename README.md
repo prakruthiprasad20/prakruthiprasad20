@@ -155,7 +155,25 @@
 
 <br/>
 
+## 📊 Detailed GitHub Summary
 
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prakruthiprasad20&theme=rose_pine" 
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prakruthiprasad20&theme=rose_pine" 
+    width="49%"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prakruthiprasad20&theme=rose_pine&utcOffset=5.5" 
+    width="49%"
+  />
+</p>
 
 ## 🏆 GitHub Trophies
 
