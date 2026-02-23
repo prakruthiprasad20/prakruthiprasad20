@@ -142,9 +142,9 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats-one-omega-52.vercel.app/api?username=prakruthiprasad20&show_icons=true&theme=radical" height="200"/>
+  <img src="https://github-readme-stats-one-omega-52.vercel.app/api?username=prakruthiprasad20&show_icons=true&theme=radical&v=2" height="200"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-one-omega-52.vercel.app/api/top-langs/?username=prakruthiprasad20&layout=compact&theme=radical" height="200"/>
+  <img src="https://github-readme-stats-one-omega-52.vercel.app/api/top-langs/?username=prakruthiprasad20&layout=compact&theme=radical&v=2" height="200"/>
 </p>
 
 <br/>
