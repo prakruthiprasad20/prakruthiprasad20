@@ -137,7 +137,6 @@
 ## 🎖️ My Holopin Badges
 [![An image of @prakruthiprasad20's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prakruthiprasad20)](https://holopin.io/@prakruthiprasad20)
 
-
 ## 📊 GitHub Stats
 
 <br/>
@@ -155,6 +154,7 @@
 </p>
 
 <br/>
+
 
 ## 🏆 GitHub Trophies
 
