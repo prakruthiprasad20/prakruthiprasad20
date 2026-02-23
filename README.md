@@ -51,7 +51,7 @@
   style="display: block;" 
 /> -->
 <img 
-  src="https://readme-typing-svg.demolab.com/?lines=A%203rd%20year%20CS%20student;at%20JSS%20STU,%20Mysuru,%20India;Passionate%20about%20Web%20Dev%20and;Open%20Source.%20Always%20excited%20to;learn,%20create,%20and%20collaborate!&font=Fira%20Code&center=false&width=600&height=120&color=FF0090&vCenter=true&pause=1000&size=23" 
+  src="https://readme-typing-svg.demolab.com/?lines=A%20Pre-Final%20year%20CS%20student;at%20JSSSTU,%20India;I%20love%20building%20cool%20websites;and%20solving%20problems.&font=Fira%20Code&center=false&width=650&height=140&color=FF0090&vCenter=true&pause=1000&size=23" 
   align="left" 
   style="display: block;" 
 />
@@ -138,27 +138,23 @@
 [![An image of @prakruthiprasad20's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prakruthiprasad20)](https://holopin.io/@prakruthiprasad20)
 
 
-
 ## 📊 GitHub Stats
 
- <br/>
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakruthiprasad20&show_icons=true&theme=radical" alt="GitHub Stats" height="200"/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakruthiprasad20&layout=compact&theme=radical" alt="Top Languages" height="200"/>
-
-</p>
+  <img src="https://github-readme-stats-one-omega-52.vercel.app/api?username=prakruthiprasad20&show_icons=true&theme=radical" height="200"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <p align="center">
-
-  <img src="https://streak-stats.vercel.app?user=prakruthiprasad20&theme=radical&hide_border=false" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-stats-one-omega-52.vercel.app/api/top-langs/?username=prakruthiprasad20&layout=compact&theme=radical" height="200"/>
 </p>
 
+<br/>
 
- <br/>
-  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prakruthiprasad20&theme=radical" height="200"/>
+</p>
+
+<br/>
 
 ## 🏆 GitHub Trophies
 
