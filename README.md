@@ -143,12 +143,6 @@
 [![An image of @prakruthiprasad20's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prakruthiprasad20)](https://holopin.io/@prakruthiprasad20)
 <br/>
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prakruthiprasad20/prakruthiprasad20/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-
 ## 📊 GitHub Stats
 
 <br/>
@@ -157,12 +151,6 @@
   <img src="https://github-readme-stats-one-omega-52.vercel.app/api?username=prakruthiprasad20&show_icons=true&theme=radical&v=2" height="200"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats-one-omega-52.vercel.app/api/top-langs/?username=prakruthiprasad20&layout=compact&theme=radical&v=2" height="200"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=prakruthiprasad20&theme=radical" height="200"/>
 </p>
 
 <br/>
@@ -176,6 +164,13 @@
 
  <br/>
       
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/prakruthiprasad20/prakruthiprasad20/output/github-contribution-grid-snake-dark.svg"
+    width="1350"
+  />
+</p>
 
 
 <!--
