@@ -144,6 +144,9 @@
 <br/>
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prakruthiprasad20/prakruthiprasad20/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 
 ## 📊 GitHub Stats
