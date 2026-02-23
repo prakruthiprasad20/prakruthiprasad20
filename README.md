@@ -75,7 +75,8 @@
 <br/>
 
 <p>
- <img src="https://komarev.com/ghpvc/?username=prakruthiprasad20&style=for-the-badge&color=555555" width="130" align="right" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=prakruthiprasad20&color=blueviolet" width="130" align="right"/>
+
 </p>
 
 <br/>
@@ -134,9 +135,16 @@
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,tailwind,js,react,nextjs,nodejs,express,mongodb,mysql,postgres,supabase,git,github,gitlab,postman,figma,linux&theme=dark&perline=10" />
 
+## 🚀 Leetcode
+<img src="https://leetcard.jacoblin.cool/prakruthii?theme=dark&font=baloo"/>
+
+
 ## 🎖️ My Holopin Badges
 [![An image of @prakruthiprasad20's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prakruthiprasad20)](https://holopin.io/@prakruthiprasad20)
 <br/>
+
+
+
 
 ## 📊 GitHub Stats
 
@@ -155,8 +163,6 @@
 </p>
 
 <br/>
-
-
 
 
 
