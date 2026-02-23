@@ -24,6 +24,9 @@
       <br/>
  <!--   <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I'm%20Prakruthi&font=Fira%20Code&center=true&width=400&height=45&&color=FF0090&vCenter=true&pause=1000&size=36&duration=1" style="display: block; margin-bottom: 5px;" /> -->
 
+<br/>
+<br/>
+
 <img 
   src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I'm%20Prakruthi&font=Fira%20Code&center=true&width=400&height=35&color=C154C1&vCenter=true&pause=1000&size=36&duration=1" 
   style="display: block; margin-bottom: 0px;" 
