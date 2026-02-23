@@ -155,23 +155,21 @@
 
 <br/>
 
-## 📊 Detailed GitHub Summary
-
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prakruthiprasad20&theme=rose_pine" 
-    width="100%"
+    width="75%"
   />
 </p>
 
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prakruthiprasad20&theme=rose_pine" 
-    width="49%"
+    width="38%"
   />
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prakruthiprasad20&theme=rose_pine&utcOffset=5.5" 
-    width="49%"
+    width="38%"
   />
 </p>
 
