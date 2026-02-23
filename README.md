@@ -153,7 +153,7 @@
   <img src="https://github-readme-stats-one-omega-52.vercel.app/api/top-langs/?username=prakruthiprasad20&layout=compact&theme=radical&v=2" height="200"/>
 </p>
 
-<br/>
+
 
 <p align="center">
   <img 
