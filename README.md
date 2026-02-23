@@ -136,7 +136,20 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,tailwind,js,react,nextjs,nodejs,express,mongodb,mysql,postgres,supabase,git,github,gitlab,postman,figma,linux&theme=dark&perline=10" />
 
 ## 🚀 Leetcode
-<img src="https://leetcard.jacoblin.cool/prakruthii?theme=dark&font=baloo"/>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/prakruthii?theme=dark&ext=contest" align="left" />
+</p>
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 ## 🎖️ My Holopin Badges
