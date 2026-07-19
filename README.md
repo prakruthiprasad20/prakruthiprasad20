@@ -52,7 +52,7 @@
   style="display: block;" 
 /> -->
 <img 
-  src="https://readme-typing-svg.demolab.com/?lines=A%20Pre-Final%20year%20CS%20student;at%20JSSSTU,%20India;I%20love%20building%20cool%20websites;and%20solving%20problems.&font=Fira%20Code&center=false&width=650&height=140&color=C154C1&vCenter=true&pause=1000&size=23" 
+  src="https://readme-typing-svg.demolab.com/?lines=A%20Pre-Final%20year%20CS%20student;at%20JSSSTU,%20India;I%20love%20building%20cool%20stuff;and%20solving%20problems.&font=Fira%20Code&center=false&width=650&height=140&color=C154C1&vCenter=true&pause=1000&size=23" 
   align="left" 
   style="display: block;" 
 />
